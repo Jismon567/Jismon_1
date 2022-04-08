@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[CA0117]]>
+    </line>
+    <line>
+      <![CDATA[CA0117]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-04-05T16:58:47 IST" name="Default suite" finished-at="2022-04-05T16:59:06 IST" duration-ms="19168">
+    <groups>
+    </groups>
+    <test started-at="2022-04-05T16:58:47 IST" name="Default test" finished-at="2022-04-05T16:59:06 IST" duration-ms="19168">
+      <class name="kiteAppUsingPOMandTestNG.kiteAppUsingPOMandTestNGintestng">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:kiteAppUsingPOMandTestNG.kiteAppUsingPOMandTestNGintestng@5b8dfcc1]" started-at="2022-04-05T16:58:47 IST" name="launchbrowser" finished-at="2022-04-05T16:58:57 IST" duration-ms="10576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method is-config="true" signature="logintokiteapp()[pri:0, instance:kiteAppUsingPOMandTestNG.kiteAppUsingPOMandTestNGintestng@5b8dfcc1]" started-at="2022-04-05T16:58:57 IST" name="logintokiteapp" finished-at="2022-04-05T16:58:58 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintokiteapp -->
+        <test-method signature="validateuserId1()[pri:0, instance:kiteAppUsingPOMandTestNG.kiteAppUsingPOMandTestNGintestng@5b8dfcc1]" started-at="2022-04-05T16:58:58 IST" name="validateuserId1" finished-at="2022-04-05T16:59:00 IST" duration-ms="1493" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CA0117]]>
+            </line>
+            <line>
+              <![CDATA[CA0117]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateuserId1 -->
+        <test-method is-config="true" signature="logouttokiteapp()[pri:0, instance:kiteAppUsingPOMandTestNG.kiteAppUsingPOMandTestNGintestng@5b8dfcc1]" started-at="2022-04-05T16:59:00 IST" name="logouttokiteapp" finished-at="2022-04-05T16:59:01 IST" duration-ms="1633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logouttokiteapp -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:kiteAppUsingPOMandTestNG.kiteAppUsingPOMandTestNGintestng@5b8dfcc1]" started-at="2022-04-05T16:59:01 IST" name="closebrowser" finished-at="2022-04-05T16:59:06 IST" duration-ms="4451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- kiteAppUsingPOMandTestNG.kiteAppUsingPOMandTestNGintestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
